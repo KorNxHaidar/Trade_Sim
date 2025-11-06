@@ -1,0 +1,2 @@
+Table Name,File Name,trading_day,NAV,Portfolio value,End Line available,Start Line available,Number of wins,Number of matched trades,Number of transactions,Net Amount,Unrealized P/L,% Unrealized P/L,Realized P/L,Maximum value,Minimum value,Win rate,Calmar Ratio,Relative Drawdown,Maximum Drawdown,%Return
+Sum_file,menemanemo,2025-11-04,12150293.500000004,11950026.45,200267.05000000363,10000000,18933,26653,52813,2392370231.4900002,-4701.903101778513,-0.04701903101778513,2154995.4031017823,9946720.0,14.290000003366004,71.03515551720257,0,0,0,21.502935000000036
